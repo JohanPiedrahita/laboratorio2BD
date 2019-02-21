@@ -1,3 +1,5 @@
+//Este laboratorio consiste en la programacion para controlar los servos de forma que se pueda manejar por medio del teclado y el bluetooth.
+//Este laboratorio fue elaborado por Johan Alexander Piedrahita y Juan Jose Nontoa.
 #include <Servo.h>
 #include <SoftwareSerial.h>
 
